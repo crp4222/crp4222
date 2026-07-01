@@ -70,10 +70,3 @@ I'm a **Data / Software Engineer** working on **privacy-first tooling for LLMs**
 - **[privaite-bench](https://github.com/crp4222/privaite-bench)** — Reproducible benchmark suite for PrivAiTe's PII detection.
 
 ---
-
-## 📫 Find me
-
-<p align="center">
-  <a href="https://github.com/crp4222"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/crp4222/PrivAiTe"><img src="https://img.shields.io/badge/PrivAiTe-8A2BE2?style=for-the-badge&logo=lock&logoColor=white" /></a>
-</p>
